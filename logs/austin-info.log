@@ -1,0 +1,30 @@
+2023-04-19 18:17:27.503 [main] INFO  com.javaykx.austin.AustinApplication - Starting AustinApplication using Java 1.8.0_302 on LAPTOP-7ERSL5N5 with PID 9092 (F:\Project\austin-ykx\austin-web\target\classes started by yankexin in F:\Project\austin-ykx)
+2023-04-19 18:17:27.506 [main] INFO  com.javaykx.austin.AustinApplication - No active profile set, falling back to default profiles: default
+2023-04-19 18:17:28.413 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-19 18:17:28.422 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-04-19 18:17:28.422 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-19 18:17:28.423 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54]
+2023-04-19 18:17:28.505 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-19 18:17:28.505 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 939 ms
+2023-04-19 18:17:28.832 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-04-19 18:17:28.849 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-19 18:17:28.860 [main] INFO  com.javaykx.austin.AustinApplication - Started AustinApplication in 1.928 seconds (JVM running for 3.425)
+2023-04-19 18:17:39.081 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-19 18:17:39.082 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-19 18:17:39.083 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-04-19 18:17:39.102 [http-nio-8080-exec-1] INFO  com.javaykx.austin.web.TestController - log: good work
+2023-04-19 18:21:03.176 [main] INFO  com.javaykx.austin.AustinApplication - Starting AustinApplication using Java 1.8.0_302 on LAPTOP-7ERSL5N5 with PID 9012 (F:\Project\austin-ykx\austin-web\target\classes started by yankexin in F:\Project\austin-ykx)
+2023-04-19 18:21:03.181 [main] INFO  com.javaykx.austin.AustinApplication - No active profile set, falling back to default profiles: default
+2023-04-19 18:21:04.176 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-19 18:21:04.184 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-04-19 18:21:04.185 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-19 18:21:04.185 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54]
+2023-04-19 18:21:04.265 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-19 18:21:04.265 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1025 ms
+2023-04-19 18:21:04.577 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-04-19 18:21:04.593 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-19 18:21:04.603 [main] INFO  com.javaykx.austin.AustinApplication - Started AustinApplication in 1.923 seconds (JVM running for 3.362)
+2023-04-19 18:21:14.971 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-19 18:21:14.971 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-19 18:21:14.972 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-04-19 18:21:14.993 [http-nio-8080-exec-1] INFO  com.javaykx.austin.web.TestController - log: good work

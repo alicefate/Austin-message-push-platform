@@ -2,8 +2,7 @@ package com.javaykx.austin.web;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
-import javax.xml.ws.RequestWrapper;
+import lombok.extern.slf4j.Slf4j;
 
 /**
  * @author ykx
@@ -11,9 +10,12 @@ import javax.xml.ws.RequestWrapper;
  */
 
 @RestController
+@Slf4j
 public class TestController {
     @RequestMapping("/test")
     private String test() {
-        return "success YKX";
+        System.out.println("sout: good job");
+        log.info("log: good work");
+        return "nice try";
     }
 }
